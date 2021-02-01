@@ -8,3 +8,4 @@ twitter_username: bisforben2010 # DO NOT include the @ character, or else the bu
 github_username:  benjerminfranklin2020 # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+style: minima 
